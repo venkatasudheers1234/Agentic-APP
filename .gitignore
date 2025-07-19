@@ -1,0 +1,7 @@
+testkey1
+testkey1.pub
+testkeyfile
+testkeyfile.pub
+*.pem
+*.key
+.ssh/
